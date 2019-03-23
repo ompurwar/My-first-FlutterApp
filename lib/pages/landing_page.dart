@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../utils/random_words.dart';
+import '../pages/random_words.dart';
 
 class LandingPage extends StatelessWidget {
   int counter = 0;
